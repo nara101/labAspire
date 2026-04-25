@@ -7,6 +7,7 @@ LibrAspire adalah platform e-commerce toko buku digital yang dibangun menggunaka
 - **Pencarian buku**: Menampilkan fitur untuk mencari judul buku yang ada di dalam website.
 - **Tambah buku ke keranjang**: Buku yang telah dipilih dapat dimasukkan ke keranjang sebelum di checkout.
 - **Hapus buku dari keranjang**: Buku yang tersimpan di keranjang bisa di hapuskan.
+- **Detail Buku**: Menampilkan detail dan sinopsis buku.
 
 ## Anggota Kelompok
 - Alifsa Rezky Rahmah Sabran
@@ -105,6 +106,7 @@ cd libraspire
 | **Pencarian** | Mengetik "Conan" di kolom pencarian | Muncul daftar buku terkait |
 | **Tambah ke keranjang** | Klik tombol “Tambah ke keranjang” | Muncul Buku yang di input ke keranjang |
 | **Hapus dari keranjang** | Klik "Hapus" atau "Kosongkan Keranjang" | Buku yang di input sudah tidak ada di keranjang |
+| **Detail Buku** | Klik "Detail Buku" | Muncul detail dan sinopsis buku terkait |
 
 ## Kredit & Sumber Data
 - Data buku disediakan oleh **[Open Library](https://openlibrary.org/developers/api)**.
