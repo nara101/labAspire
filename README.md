@@ -64,8 +64,8 @@ libraspire/
 
 1. Clone repository
   ```
-git clone [https://github.com/naynay707/LibrAspire.git](https://github.com/nara101/labAspire.git)
-cd libraspire
+git clone https://github.com/nara101/labAspire.git
+cd LabAspire
   ```
 2. Install dependencies
 ```text
